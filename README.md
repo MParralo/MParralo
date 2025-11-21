@@ -1,4 +1,4 @@
-## Hola 👋 , me llamo Marc, te invito a ver mi humilde portafolio, todo está publicado en Github Pages, por lo que es muy sencillo ver lo que hago.
+## Hola 👋 , me llamo Marc, te invito a ver mi humilde portafolio, todo está publicado en Github Pages, lee los README (Te ahorrarás tiempo), es muy sencillo ver lo que hago, no tienes que descargar nada.
 
 <!--
 **MParralo/MParralo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
